@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/garagem_milgrau.html"
+    }
+  ]
+}
